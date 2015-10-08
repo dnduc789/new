@@ -25,7 +25,6 @@ proguard-project.txt
 res/.DS_Store
 res/raw/lpconfig.xsd
 res/raw/rootca.pem
-submodules
 tests/*$py.class
 tests/build.xml
 tests/project.properties
