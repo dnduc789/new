@@ -91,3 +91,6 @@
 [submodule "submodules/externals/webrtc"]
 	path = submodules/externals/webrtc
 	url = git://git.linphone.org/webrtc.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/dnduc789/submodule.git
